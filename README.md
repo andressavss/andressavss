@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá mundo :)
 
-<!--
-**andressavss/andressavss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏽‍💻 Meu nome é Andressa Santos, eu tenho 22 anos e sou Desenvolvedora de Software!
 
-Here are some ideas to get you started:
+🐈‍⬛ Amo codar e nas horas vagas gosto de assistir vídeos no Youtube, filmes, séries e animes! Também gosto de fazer musculação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥋 Sou uma dev júnior e procuro uma vaga de desenvolvimento back-end para aplicar os meus conhecimentos e aprender mais no dia a dia do trabalho.
+
+💻 Atualmente, programo em C# .NET e suas tecnologias. 
+
+## Contatos 
+
+<a href = "mailto:andressavieiradsantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andressa-santos-611866219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
