@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    👩🏽‍💻 Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Andressa Santos, tenho 23 anos e sou Desenvolvedora de Software.
+    👩🏽‍💻 Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Andressa Santos, tenho 23 anos e sou Desenvolvedora Back-end.
   </li>
 </ul>
 
@@ -26,13 +26,3 @@
     💻 Atualmente estudo e programo em C# .NET e suas tecnologias. 
   </li>
 </ul>
-
-### Contatos:
-
-<a href = "mailto:andressavieiradsantos@gmail.com"><img width=48 heigth=48 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andressa-santos-611866219/" target="_blank"><img width=60 heigth=60 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-
-
-          
-          
