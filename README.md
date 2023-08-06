@@ -18,11 +18,11 @@
 </ul>
 <ul>
   <li>
-    🥋 Sou uma “dev” iniciante e procuro uma vaga em desenvolvimento de software para aplicar os meus conhecimentos e aprender mais no dia a dia do trabalho.
+    🥋 Sou uma dev iniciante e procuro uma vaga em desenvolvimento de software para aplicar os meus conhecimentos e aprender mais no dia a dia do trabalho.
   </li>
 </ul>
 <ul>
   <li>
-    💻 Atualmente estudo e programo em C# .NET e suas tecnologias. 
+    💻 Atualmente estudo e programo em C# utilizando .NET e suas tecnologias. 
   </li>
 </ul>
