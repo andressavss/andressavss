@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    👩🏽‍💻 Bem-vindo(a) ao meu perfil no GitHub! Meu nome é Andressa Santos, tenho 23 anos e sou Desenvolvedora Back-end.
+    👩🏽‍💻 Oi, seja-vindo(a) ao meu perfil no GitHub! Meu nome é Andressa, tenho 24 anos e sou Desenvolvedora de Software.
   </li>
 </ul>
 
@@ -18,11 +18,7 @@
 </ul>
 <ul>
   <li>
-    🥋 Sou uma dev iniciante e procuro uma vaga em desenvolvimento de software para aplicar os meus conhecimentos e aprender mais no dia a dia do trabalho.
+    🥋 Sou uma DEV que ama desafios e aprender coisas novas!
   </li>
 </ul>
 <ul>
-  <li>
-    💻 Atualmente estudo e programo em C# utilizando .NET e suas tecnologias. 
-  </li>
-</ul>
