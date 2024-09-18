@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    👩🏽‍💻 Oi, seja-vindo(a) ao meu perfil no GitHub! Meu nome é Andressa, tenho 24 anos e sou Desenvolvedora de Software.
+    👩🏽‍💻 Oi, seja bem-vindo(a) ao meu perfil no GitHub! Meu nome é Andressa, tenho 24 anos e sou Desenvolvedora de Software.
   </li>
 </ul>
 
@@ -13,7 +13,7 @@
 </ul>
 <ul>
   <li>
-    💆🏽‍♀️ Nas horas vagas gosto de ficar com a família, assistir vídeos no Youtube, filmes/séries e animes! Também curto fazer musculação.
+    💆🏽‍♀️ Nas horas vagas gosto de ficar com a família, assistir vídeos, filmes/séries e animes! Também curto fazer exercícios físicos.
   </li>
 </ul>
 <ul>
